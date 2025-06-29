@@ -74,6 +74,9 @@ Users can submit a long URL, get a shortened URL, and be redirected to the origi
 Access the live frontend here:  
 [https://staging.d3r62xj5vom7vg.amplifyapp.com/](https://staging.d3r62xj5vom7vg.amplifyapp.com/)
 
+![image](https://github.com/user-attachments/assets/f48c72e8-f5a1-45c8-8fcb-cdf8529604a3)
+![image](https://github.com/user-attachments/assets/0a816d0e-33b2-449d-b118-df3fc403990c)
+
 
 
 
